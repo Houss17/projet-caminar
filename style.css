@@ -1,0 +1,147 @@
+
+body{
+    margin: 0;
+    background-color: rgb(23, 23, 32);
+
+}
+.img_fond{
+    width: 100%;
+}
+.caminar{
+    color: white;
+}
+
+
+header{
+    background-size: 100%;
+    background-image:  url(/images/bg.jpg); /* importer l'image et placer un effet fondu bottom */
+    height: 20em;
+    display: flex;
+
+}
+
+.caminar{
+  margin-left: 45em;
+  margin-top: 5em;
+}
+/* 1er section */
+
+.section1{
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: -3em;
+    border: 2px solid black;
+
+}
+
+.div_img1{
+    width: 100%;
+
+}
+.div_caminar{
+    background-color: white;
+}
+.div_h1{
+
+    padding-left: 35em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+
+}
+
+.section_p{
+    background-color: rgb(224, 217, 217);
+    height: 25em;
+    align-content: center;
+    padding-left: 5em;
+
+}
+
+/* section2 */
+.section2{
+    margin-left: 5em;
+    margin-right: 5em;
+    border: 2px solid black;
+
+}
+
+
+.div_2{
+    color: white;
+    padding-left: 5em;
+    padding-top: 5em;
+    background-color: rgb(23, 23, 32);
+    padding-right: 5em;
+    padding-bottom: 5em;
+}
+.p_gray{
+    color: gray;
+}
+
+.div2_1{
+    background-color: rgb(21, 19, 19);
+    align-content: center;
+    text-align: center;
+
+}
+.img_1{
+    display: flex;
+    
+   
+}
+
+.img_2{
+    width: 38em;
+}
+
+/* parti 3 */
+.section3{
+    border: 2px solid black;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.div_3{
+    display: flex;
+
+}
+
+.img_3{
+    height: 30em;
+    width: 42.5em;
+
+}
+
+.div3_1{
+    background-color: white;
+
+
+}
+
+.div_sous{
+    margin-left: 10em;
+    padding-right: 10em;
+    padding-top: 8em;
+
+
+
+}
+
+
+
+.div3_2{
+    color: white;
+    background-color: rgb(23, 23, 32);
+    margin-left: 10em;
+    padding-right: 10em;
+    padding-top: 8em;
+    text-align: right;
+}
+
+
+/* fin */
+
+footer{
+    margin-top: 3em;
+    color: white;
+    text-align: center;
+}
